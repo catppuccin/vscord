@@ -1,0 +1,460 @@
+{
+  "ahk": {
+    "collection": "simple-icons",
+    "icon": "autohotkey"
+  },
+  "android": "android",
+  "angular": "angular",
+  "ansible": {
+    "collection": "simple-icons",
+    "icon": "ansible",
+    "foreground": "red"
+  },
+  "applescript": "apple",
+  "appveyor": {
+    "collection": "simple-icons",
+    "icon": "appveyor",
+    "foreground": "sky"
+  },
+  "arduino": {
+    "collection": "simple-icons",
+    "icon": "arduino",
+    "foreground": "teal"
+  },
+  "asp": {
+    "collection": "lucide",
+    "icon": "server"
+  },
+  "assembly": "assembly",
+  "astro": "astro",
+  "astroconfig": "astro-config",
+  "autoit": {
+    "collection": "simple-icons",
+    "icon": "autoit",
+    "foreground": "blue"
+  },
+  "babel": "babel",
+  "bat": {
+    "collection": "mdi",
+    "icon": "gear"
+  },
+  "bazel": "bazel",
+  "bower": "bower",
+  "brainfuck": {
+    "collection": "mdi",
+    "icon": "brain",
+    "foreground": "pink"
+  },
+  "c": "c",
+  "c3": "c",
+  "cargo": "cargo",
+  "circleci": {
+    "collection": "simple-icons",
+    "icon": "circleci",
+    "foreground": "subtext1"
+  },
+  "citrinescript": {
+    "collection": "mdi",
+    "icon": "script",
+    "foreground": "red"
+  },
+  "clojure": {
+    "collection": "simple-icons",
+    "icon": "clojure",
+    "foreground": "blue"
+  },
+  "cmake": "cmake",
+  "cobol": "cobol",
+  "codeclimate": "code-climate",
+  "coffee": "coffeescript",
+  "contenthook": {
+    "collection": "fluent",
+    "icon": "content-view-32-filled",
+    "foreground": "subtext0"
+  },
+  "cosmo": {
+    "collection": "mdi",
+    "icon": "star-face",
+    "foreground": "yellow"
+  },
+  "cpp": "cpp",
+  "crystal": {
+    "collection": "simple-icons",
+    "icon": "crystal",
+    "foreground": "overlay0"
+  },
+  "csharp": "csharp",
+  "csproj": "visual-studio",
+  "css": "css",
+  "cssmap": "css-map",
+  "cuda": "cuda",
+  "cython": "python",
+  "d": "d",
+  "dart": "dart",
+  "debugging": {
+    "collection": "lucide",
+    "icon": "bug"
+  },
+  "delphi": {
+    "collection": "simple-icons",
+    "icon": "delphi",
+    "foreground": "red"
+  },
+  "denizen": {
+    "collection": "mdi",
+    "icon": "letter-d",
+    "foreground": "blue"
+  },
+  "docker": "docker",
+  "editorconfig": "editorconfig",
+  "ejs": "ejs",
+  "elixir": "elixir",
+  "elm": "elm",
+  "env": "env",
+  "erlang": "erlang",
+  "eslint": "eslint",
+  "firebase": "firebase",
+  "flowconfig": {
+    "collection": "file-icons",
+    "icon": "flow",
+    "foreground": "yellow"
+  },
+  "fortran": "fortran",
+  "fsharp": "fsharp",
+  "gamescript": {
+    "collection": "lucide",
+    "icon": "gamepad"
+  },
+  "gatsbyjs": "gatsby",
+  "gemfile": "ruby",
+  "git": "git",
+  "gleam": "gleam",
+  "glsl": {
+    "collection": "file-icons",
+    "icon": "vertexshader",
+    "foreground": "blue"
+  },
+  "gml": {
+    "collection": "simple-icons",
+    "icon": "gamemaker",
+    "foreground": "overlay0"
+  },
+  "go": "go",
+  "godot": "godot",
+  "gradle": "gradle",
+  "grain": {
+    "collection": "ph",
+    "icon": "grains"
+  },
+  "graphql": "graphql",
+  "groovy": "groovy",
+  "gruntfile": {
+    "collection": "simple-icons",
+    "icon": "grunt",
+    "foreground": "peach"
+  },
+  "gulp": "gulp",
+  "handlebars": "handlebars",
+  "harbour": {
+    "collection": "file-icons",
+    "icon": "harbour",
+    "foreground": "blue"
+  },
+  "hare": {
+    "collection": "mdi",
+    "icon": "hare",
+    "foreground": "overlay0"
+  },
+  "haskell": "haskell",
+  "haxe": "haxe",
+  "heex": {
+    "collection": "simple-icons",
+    "icon": "phoenixframework",
+    "foreground": "peach"
+  },
+  "heroku": "heroku",
+  "hjson": {
+    "collection": "file-icons",
+    "icon": "hjson",
+    "foreground": "green"
+  },
+  "hlsl": {
+    "collection": "file-icons",
+    "icon": "vertexshader",
+    "foreground": "sky"
+  },
+  "holyc": {
+    "collection": "simple-icons",
+    "icon": "c",
+    "foreground": "yellow"
+  },
+  "html": "html",
+  "http": "http",
+  "idle-vscode-insiders": {
+    "collection": "icon-park-outline",
+    "icon": "desk-lamp-one",
+    "foreground": "green"
+  },
+  "idle-vscode": {
+    "collection": "icon-park-outline",
+    "icon": "desk-lamp-one",
+    "foreground": "blue"
+  },
+  "idle-vscodium-insiders": {
+    "collection": "icon-park-outline",
+    "icon": "desk-lamp-one",
+    "foreground": "green"
+  },
+  "idle-vscodium": {
+    "collection": "icon-park-outline",
+    "icon": "desk-lamp-one",
+    "foreground": "blue"
+  },
+  "idle": {
+    "collection": "lucide",
+    "icon": "moon",
+    "foreground": "yellow"
+  },
+  "jar": "java-jar",
+  "java": "java",
+  "jest": "jest",
+  "jinja": "jinja",
+  "js": "javascript",
+  "jsmap": "javascript-map",
+  "json": "json",
+  "jsx": "javascript-react",
+  "jule": {
+    "collection": "mdi",
+    "icon": "cube-outline",
+    "foreground": "overlay0"
+  },
+  "julia": "julia",
+  "jupyter": "jupyter",
+  "kag-script": {
+    "collection": "mdi",
+    "icon": "fish",
+    "foreground": "blue"
+  },
+  "kirikiri-tpv-javascript": {
+    "collection": "mdi",
+    "icon": "fish",
+    "foreground": "yellow"
+  },
+  "kivy": {
+    "collection": "file-icons",
+    "icon": "kivy",
+    "foreground": "overlay0"
+  },
+  "kotlin": "kotlin",
+  "laravel": "laravel",
+  "less": "less",
+  "lisp": "lisp",
+  "livescript": {
+    "collection": "file-icons",
+    "icon": "livescript",
+    "foreground": "sky"
+  },
+  "log": "log",
+  "lua": "lua",
+  "luau": "luau",
+  "maeel": {
+    "collection": "mdi",
+    "icon": "letter-m",
+    "foreground": "pink"
+  },
+  "makefile": "makefile",
+  "manifest": {
+    "collection": "file-icons",
+    "icon": "codemeta",
+    "foreground": "overlay0"
+  },
+  "markdown": "markdown",
+  "markdownx": "markdown-mdx",
+  "marko": "marko",
+  "matlab": "matlab",
+  "metal": {
+    "collection": "file-icons",
+    "icon": "metal",
+    "foreground": "mauve"
+  },
+  "mojo": {
+    "collection": "mdi",
+    "icon": "fire",
+    "foreground": "peach"
+  },
+  "moonscript": {
+    "collection": "lucide",
+    "icon": "moon",
+    "foreground": "pink"
+  },
+  "nim": "nim",
+  "nix": "nix",
+  "nodemon": "nodemon",
+  "npm": "npm",
+  "objective-c": "c",
+  "ocaml": "ocaml",
+  "odin": {
+    "collection": "file-icons",
+    "icon": "odin"
+  },
+  "onyx": {
+    "collection": "lucide",
+    "icon": "hexagon",
+    "foreground": "overlay0"
+  },
+  "opengoal-goos": {
+    "collection": "lucide",
+    "icon": "circle",
+    "foreground": "pink"
+  },
+  "opengoal-ir": {
+    "collection": "lucide",
+    "icon": "circle",
+    "foreground": "sky"
+  },
+  "opengoal": {
+    "collection": "lucide",
+    "icon": "circle",
+    "foreground": "yellow"
+  },
+  "pascal": {
+    "collection": "mdi",
+    "icon": "letter-p",
+    "foreground": "blue"
+  },
+  "pawn": {
+    "collection": "streamline",
+    "icon": "chess-pawn-solid",
+    "foreground": "blue"
+  },
+  "perl": "perl",
+  "php": "php",
+  "ponylang": {
+    "collection": "file-icons",
+    "icon": "pony",
+    "foreground": "overlay0"
+  },
+  "postcss": "postcss",
+  "powershell": "powershell",
+  "prettier": "prettier",
+  "prisma": "prisma",
+  "processing": {
+    "collection": "devicon-plain",
+    "icon": "processing"
+  },
+  "pug": "pug",
+  "purescript": {
+    "collection": "simple-icons",
+    "icon": "purescript",
+    "foreground": "blue"
+  },
+  "python": "python",
+  "qml": {
+    "collection": "simple-icons",
+    "icon": "qt",
+    "foreground": "green"
+  },
+  "r": "r",
+  "racket": "racket",
+  "razor": "razor",
+  "reasonml": "reason",
+  "restructuredtext": "text",
+  "ruby": "ruby",
+  "rust": "rust",
+  "scala": "scala",
+  "scss": "sass",
+  "shell": "bash",
+  "skript": {
+    "collection": "mdi",
+    "icon": "script"
+  },
+  "solidity": "solidity",
+  "sourcepawn": {
+    "collection": "streamline",
+    "icon": "chess-pawn-solid",
+    "foreground": "blue"
+  },
+  "sqf": {
+    "collection": "file-icons",
+    "icon": "sqf"
+  },
+  "sql": "database",
+  "squirrel": {
+    "collection": "lucide",
+    "icon": "squirrel",
+    "foreground": "rosewater"
+  },
+  "stylus": {
+    "collection": "simple-icons",
+    "icon": "stylus",
+    "foreground": "green"
+  },
+  "svelte": "svelte",
+  "svg": "svg",
+  "swift": "swift",
+  "systemverilog": {
+    "collection": "file-icons",
+    "icon": "systemverilog",
+    "foreground": "blue"
+  },
+  "tailwind": "tailwind",
+  "terraform": "terraform",
+  "tex": "latex",
+  "text": "text",
+  "toml": "toml",
+  "travis": {
+    "collection": "simple-icons",
+    "icon": "travisci",
+    "foreground": "rosewater"
+  },
+  "ts": "typescript",
+  "tsmap": "typescript",
+  "tsx": "typescript-react",
+  "turbo": "turbo",
+  "twig": "twig",
+  "typescript-def": "typescript-def",
+  "umm": {
+    "collection": "mdi",
+    "icon": "molecule"
+  },
+  "v": "v",
+  "vala": {
+    "collection": "simple-icons",
+    "icon": "vala",
+    "foreground": "mauve"
+  },
+  "vb": {
+    "collection": "fluent",
+    "icon": "document-vb-16-filled"
+  },
+  "vercel": "vercel",
+  "verse": {
+    "collection": "mdi",
+    "icon": "triangle"
+  },
+  "viteconfig": "vite",
+  "vitestconfig": "vitest",
+  "vscode-insiders": "vscode",
+  "vscode": "vscode",
+  "vscodeignore": "vscode-ignore",
+  "vscodium-insiders": "vs-codium",
+  "vscodium": "vs-codium",
+  "vue": "vue",
+  "vueconfig": "vue-config",
+  "wasm": "web-assembly",
+  "webpack": "webpack",
+  "xaml": "xaml",
+  "xml": "xml",
+  "yaml": "yaml",
+  "yarn": "yarn",
+  "zenscript": {
+    "collection": "mdi",
+    "icon": "script"
+  },
+  "zig": "zig",
+  "zura": {
+    "collection": "mdi",
+    "icon": "dinosaur-pixel",
+    "foreground": "blue"
+  }
+}
