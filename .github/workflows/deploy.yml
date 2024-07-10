@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: Setup PNPM
         uses: pnpm/action-setup@v3
       - name: Setup Node
