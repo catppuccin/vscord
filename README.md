@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/leonardssh/vscord">VSCord</a>
+	Catppuccin for <a href="https://marketplace.visualstudio.com/items?itemName=LeonardSSH.vscord">VSCord</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -36,7 +36,8 @@
 
 ## Usage
 
-Add the following to your `settings.json` and replace `flavor` by your preferred flavor:
+1. Install the [VSCord](https://marketplace.visualstudio.com/items?itemName=LeonardSSH.vscord) extension if you haven't already.
+2. Add the following to your `settings.json` and replace `flavor` by your preferred flavor.
 
 ```json
 {
