@@ -9,7 +9,7 @@ import icons from "../icons.json";
 import { lookupCollection } from "@iconify/json";
 import { getIconData, iconToHTML, iconToSVG, replaceIDs } from "@iconify/utils";
 
-fs.rmSync("./dist", { recursive: true });
+fs.rmSync("./dist", { recursive: true, force: true });
 fs.mkdirSync("./dist", { recursive: true });
 for (const [flavorName, _] of flavorEntries) {
   fs.mkdirSync(`./dist/${flavorName}`, { recursive: true });
