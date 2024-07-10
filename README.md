@@ -1,14 +1,14 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/catppuccin/template">App</a>
+	Catppuccin for <a href="https://github.com/leonardssh/vscord">VSCord</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -36,19 +36,26 @@
 
 ## Usage
 
-1. Download the flavor of your choice.
-2. Open the app and go to **Preferences** > **Appearance** > **Import theme**.
-3. Select the downloaded flavor file.
+Add the following to your `settings.json` and replace `flavor` by your preferred flavor:
 
-<!-- The FAQ section is optional. Remove if needed.-->
-## 🙋 FAQ
-
-- Q: **_"How can I do X?"_**\
-  A: ...
+```json
+{
+  "vscord.status.image.large.debugging.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/debugging.webp",
+  "vscord.status.image.large.editing.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/{lang}.webp",
+  "vscord.status.image.large.idle.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/idle-{app_id}.webp",
+  "vscord.status.image.large.notInFile.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/idle-{app_id}.webp",
+  "vscord.status.image.large.viewing.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/{lang}.webp",
+  "vscord.status.image.small.debugging.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/debugging.webp",
+  "vscord.status.image.small.editing.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/{app_id}.webp",
+  "vscord.status.image.small.idle.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/idle.webp",
+  "vscord.status.image.small.notInFile.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/idle.webp",
+  "vscord.status.image.small.viewing.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/{app_id}.webp"
+}
+```
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Lichthagel](https://github.com/Lichthagel)
 
 &nbsp;
 
@@ -57,7 +64,7 @@
 </p>
 
 <p align="center">
-	Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
+	Copyright &copy; 2024-present <a href="https://github.com/Lichthagel" target="_blank">Lichthagel</a>
 </p>
 
 <p align="center">
