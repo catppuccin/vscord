@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/Lichthagel/catppuccin-vscord/stargazers"><img src="https://img.shields.io/github/stars/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/Lichthagel/catppuccin-vscord/issues"><img src="https://img.shields.io/github/issues/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/Lichthagel/catppuccin-vscord/contributors"><img src="https://img.shields.io/github/contributors/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+	<a href="https://github.com/Lichthagel/catppuccin-vscord/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
