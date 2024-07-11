@@ -11,7 +11,7 @@ import { getIconData, iconToHTML, iconToSVG, replaceIDs } from "@iconify/utils";
 
 fs.rmSync("./dist", { recursive: true, force: true });
 fs.mkdirSync("./dist", { recursive: true });
-for (const [flavorName, _] of flavorEntries) {
+for (const [flavorName] of flavorEntries) {
   fs.mkdirSync(`./dist/${flavorName}`, { recursive: true });
 }
 

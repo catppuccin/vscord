@@ -3,16 +3,21 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "tsx scripts/build.ts"
+    "build": "tsx scripts/build.ts",
+    "lint": "eslint ."
   },
   "license": "MIT",
   "packageManager": "pnpm@9.5.0",
   "devDependencies": {
     "@catppuccin/palette": "^1.2.0",
+    "@eslint/js": "^9.6.0",
     "@iconify/json": "^2.2.226",
     "@iconify/utils": "^2.1.25",
     "@types/node": "^20.14.10",
+    "eslint": "^9.6.0",
+    "globals": "^15.8.0",
     "sharp": "^0.33.4",
-    "tsx": "^4.16.2"
+    "tsx": "^4.16.2",
+    "typescript-eslint": "^7.16.0"
   }
 }
