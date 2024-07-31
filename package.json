@@ -18,6 +18,6 @@
     "globals": "^15.8.0",
     "sharp": "^0.33.4",
     "tsx": "^4.16.2",
-    "typescript-eslint": "^7.16.0"
+    "typescript-eslint": "^8.0.0"
   }
 }
