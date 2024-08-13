@@ -1,5 +1,6 @@
 {
 	"compilerOptions": {
+    "target": "es2017",
 
 		// Treat files as modules even if it doesn't use import/export
 		"moduleDetection": "force",

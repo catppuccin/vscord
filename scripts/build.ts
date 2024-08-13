@@ -3,16 +3,35 @@ import {
   ColorName,
   flavorEntries,
 } from "@catppuccin/palette";
-import fs from "node:fs";
+import fs from "node:fs/promises";
 import sharp from "sharp";
 import icons from "../icons.json";
 import { lookupCollection } from "@iconify/json";
 import { getIconData, iconToHTML, iconToSVG, replaceIDs } from "@iconify/utils";
+import consola from "consola";
 
-fs.rmSync("./dist", { recursive: true, force: true });
-fs.mkdirSync("./dist", { recursive: true });
-for (const [flavorName] of flavorEntries) {
-  fs.mkdirSync(`./dist/${flavorName}`, { recursive: true });
+try {
+  consola.info("Deleting previous build...");
+
+  await fs.rm("./dist", { recursive: true, force: true });
+
+  consola.success("Deleted previous build.");
+} catch (error) {
+  consola.error("Failed to delete previous build: ", error);
+  process.exit(1);
+}
+
+try {
+  for (const [flavorName] of flavorEntries) {
+    consola.info(`Creating ./dist/${flavorName}...`);
+
+    await fs.mkdir(`./dist/${flavorName}`, { recursive: true });
+
+    consola.success(`Created ./dist/${flavorName}.`);
+  }
+} catch (error) {
+  consola.error("Failed to create build directories: ", error);
+  process.exit(1);
 }
 
 const buildIcon = async (
@@ -107,7 +126,9 @@ const buildIconVsCode = async (
   );
 };
 
-(async () => {
+try {
+  consola.info(`Building ${Object.keys(icons).length} images in ${flavorEntries.length} flavors...`);
+
   await Promise.all(
     Object.keys(icons).map(async (icon) => {
       let srcIcon = icons[icon];
@@ -144,4 +165,9 @@ const buildIconVsCode = async (
       }
     })
   );
-})();
+
+  consola.success("Built images.");
+} catch (error) {
+  consola.error("Failed to build images: ", error);
+  process.exit(1);
+}
