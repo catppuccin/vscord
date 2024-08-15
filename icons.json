@@ -42,11 +42,7 @@
   "c": "c",
   "c3": "c",
   "cargo": "cargo",
-  "circleci": {
-    "collection": "simple-icons",
-    "icon": "circleci",
-    "foreground": "subtext1"
-  },
+  "circleci": "circle-ci",
   "citrinescript": {
     "collection": "mdi",
     "icon": "script",
