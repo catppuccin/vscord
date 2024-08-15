@@ -48,11 +48,7 @@
     "icon": "script",
     "foreground": "red"
   },
-  "clojure": {
-    "collection": "simple-icons",
-    "icon": "clojure",
-    "foreground": "blue"
-  },
+  "clojure": "clojure",
   "cmake": "cmake",
   "cobol": "cobol",
   "codeclimate": "code-climate",
