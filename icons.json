@@ -115,11 +115,7 @@
   "gemfile": "ruby",
   "git": "git",
   "gleam": "gleam",
-  "glsl": {
-    "collection": "file-icons",
-    "icon": "vertexshader",
-    "foreground": "blue"
-  },
+  "glsl": "shader",
   "gml": {
     "collection": "simple-icons",
     "icon": "gamemaker",
@@ -164,11 +160,7 @@
     "icon": "hjson",
     "foreground": "green"
   },
-  "hlsl": {
-    "collection": "file-icons",
-    "icon": "vertexshader",
-    "foreground": "sky"
-  },
+  "hlsl": "shader",
   "holyc": {
     "collection": "simple-icons",
     "icon": "c",
