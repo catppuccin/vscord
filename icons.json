@@ -1,8 +1,5 @@
 {
-  "ahk": {
-    "collection": "simple-icons",
-    "icon": "autohotkey"
-  },
+  "ahk": "autohotkey",
   "android": "android",
   "angular": "angular",
   "ansible": {
