@@ -31,10 +31,7 @@
     "foreground": "blue"
   },
   "babel": "babel",
-  "bat": {
-    "collection": "mdi",
-    "icon": "gear"
-  },
+  "bat": "batch",
   "bazel": "bazel",
   "bower": "bower",
   "brainfuck": {
