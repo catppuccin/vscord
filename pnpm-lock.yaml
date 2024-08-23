@@ -19,7 +19,7 @@ importers:
         version: 2.2.239
       '@iconify/utils':
         specifier: ^2.1.25
-        version: 2.1.31
+        version: 2.1.32
       '@types/node':
         specifier: ^20.14.10
         version: 20.16.1
@@ -240,8 +240,8 @@ packages:
   '@iconify/types@2.0.0':
     resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
 
-  '@iconify/utils@2.1.31':
-    resolution: {integrity: sha512-WCu65iVaFRXyGU+op12XVbDZgIov0vzMIlUokZ1WR42cU2wwYMks/pZY8v0tE72W8ShXVaprO79Jv6EjYm3Sjw==}
+  '@iconify/utils@2.1.32':
+    resolution: {integrity: sha512-LeifFZPPKu28O3AEDpYJNdEbvS4/ojAPyIW+pF/vUpJTYnbTiXUHkCh0bwgFRzKvdpb8H4Fbfd/742++MF4fPQ==}
 
   '@img/sharp-darwin-arm64@0.33.5':
     resolution: {integrity: sha512-UT4p+iz/2H4twwAoLCqfA9UH5pI6DggwKEGuaPy7nCVQ8ZsiY5PIcrRvD1DzuY3qYL07NtIQcWnBSY/heikIFQ==}
@@ -772,8 +772,8 @@ packages:
     resolution: {integrity: sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==}
     engines: {node: '>=8.6'}
 
-  pkg-types@1.1.3:
-    resolution: {integrity: sha512-+JrgthZG6m3ckicaOB74TwQ+tBWsFl3qVQg7mN8ulwSOElJ7gBhKzj2VkCPnZ4NlF6kEquYU+RIYNVAvzd54UA==}
+  pkg-types@1.2.0:
+    resolution: {integrity: sha512-+ifYuSSqOQ8CqP4MbZA5hDpb97n3E8SVWdJe+Wms9kj745lmd3b7EZJiqvmLwAlmRfjrI7Hi5z3kdBJ93lFNPA==}
 
   prelude-ls@1.2.1:
     resolution: {integrity: sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==}
@@ -1032,7 +1032,7 @@ snapshots:
 
   '@iconify/types@2.0.0': {}
 
-  '@iconify/utils@2.1.31':
+  '@iconify/utils@2.1.32':
     dependencies:
       '@antfu/install-pkg': 0.4.0
       '@antfu/utils': 0.7.10
@@ -1515,7 +1515,7 @@ snapshots:
   local-pkg@0.5.0:
     dependencies:
       mlly: 1.7.1
-      pkg-types: 1.1.3
+      pkg-types: 1.2.0
 
   locate-path@6.0.0:
     dependencies:
@@ -1542,7 +1542,7 @@ snapshots:
     dependencies:
       acorn: 8.12.1
       pathe: 1.1.2
-      pkg-types: 1.1.3
+      pkg-types: 1.2.0
       ufo: 1.5.4
 
   ms@2.1.2: {}
@@ -1582,7 +1582,7 @@ snapshots:
 
   picomatch@2.3.1: {}
 
-  pkg-types@1.1.3:
+  pkg-types@1.2.0:
     dependencies:
       confbox: 0.1.7
       mlly: 1.7.1
