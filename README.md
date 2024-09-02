@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/Lichthagel/catppuccin-vscord/stargazers"><img src="https://img.shields.io/github/stars/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/Lichthagel/catppuccin-vscord/issues"><img src="https://img.shields.io/github/issues/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/Lichthagel/catppuccin-vscord/contributors"><img src="https://img.shields.io/github/contributors/Lichthagel/catppuccin-vscord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/vscord/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/vscord?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/vscord/issues"><img src="https://img.shields.io/github/issues/catppuccin/vscord?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/vscord/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/vscord?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -41,16 +41,16 @@
 
 ```json
 {
-  "vscord.status.image.large.debugging.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/debugging.webp",
-  "vscord.status.image.large.editing.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/{lang}.webp",
-  "vscord.status.image.large.idle.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/idle-{app_id}.webp",
-  "vscord.status.image.large.notInFile.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/idle-{app_id}.webp",
-  "vscord.status.image.large.viewing.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/{lang}.webp",
-  "vscord.status.image.small.debugging.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/debugging.webp",
-  "vscord.status.image.small.editing.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/{app_id}.webp",
-  "vscord.status.image.small.idle.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/idle.webp",
-  "vscord.status.image.small.notInFile.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/idle.webp",
-  "vscord.status.image.small.viewing.key": "https://lichthagel.github.io/catppuccin-vscord/flavor/{app_id}.webp"
+  "vscord.status.image.large.debugging.key": "https://catppuccin.github.io/vscord/flavor/debugging.webp",
+  "vscord.status.image.large.editing.key": "https://catppuccin.github.io/vscord/flavor/{lang}.webp",
+  "vscord.status.image.large.idle.key": "https://catppuccin.github.io/vscord/flavor/idle-{app_id}.webp",
+  "vscord.status.image.large.notInFile.key": "https://catppuccin.github.io/vscord/flavor/idle-{app_id}.webp",
+  "vscord.status.image.large.viewing.key": "https://catppuccin.github.io/vscord/flavor/{lang}.webp",
+  "vscord.status.image.small.debugging.key": "https://catppuccin.github.io/vscord/flavor/debugging.webp",
+  "vscord.status.image.small.editing.key": "https://catppuccin.github.io/vscord/flavor/{app_id}.webp",
+  "vscord.status.image.small.idle.key": "https://catppuccin.github.io/vscord/flavor/idle.webp",
+  "vscord.status.image.small.notInFile.key": "https://catppuccin.github.io/vscord/flavor/idle.webp",
+  "vscord.status.image.small.viewing.key": "https://catppuccin.github.io/vscord/flavor/{app_id}.webp"
 }
 ```
 
@@ -65,9 +65,9 @@
 </p>
 
 <p align="center">
-	Copyright &copy; 2024-present <a href="https://github.com/Lichthagel" target="_blank">Lichthagel</a>
+	Copyright &copy; 2024-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin</a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/Lichthagel/catppuccin-vscord/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+	<a href="https://github.com/catppuccin/vscord/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
