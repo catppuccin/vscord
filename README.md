@@ -41,16 +41,16 @@
 
 ```json
 {
-  "vscord.status.image.large.debugging.key": "https://catppuccin.github.io/vscord/flavor/debugging.webp",
-  "vscord.status.image.large.editing.key": "https://catppuccin.github.io/vscord/flavor/{lang}.webp",
-  "vscord.status.image.large.idle.key": "https://catppuccin.github.io/vscord/flavor/idle-{app_id}.webp",
-  "vscord.status.image.large.notInFile.key": "https://catppuccin.github.io/vscord/flavor/idle-{app_id}.webp",
-  "vscord.status.image.large.viewing.key": "https://catppuccin.github.io/vscord/flavor/{lang}.webp",
-  "vscord.status.image.small.debugging.key": "https://catppuccin.github.io/vscord/flavor/debugging.webp",
-  "vscord.status.image.small.editing.key": "https://catppuccin.github.io/vscord/flavor/{app_id}.webp",
-  "vscord.status.image.small.idle.key": "https://catppuccin.github.io/vscord/flavor/idle.webp",
-  "vscord.status.image.small.notInFile.key": "https://catppuccin.github.io/vscord/flavor/idle.webp",
-  "vscord.status.image.small.viewing.key": "https://catppuccin.github.io/vscord/flavor/{app_id}.webp"
+  "vscord.status.image.large.debugging.key": "https://vscord.catppuccin.com/flavor/debugging.webp",
+  "vscord.status.image.large.editing.key": "https://vscord.catppuccin.com/flavor/{lang}.webp",
+  "vscord.status.image.large.idle.key": "https://vscord.catppuccin.com/flavor/idle-{app_id}.webp",
+  "vscord.status.image.large.notInFile.key": "https://vscord.catppuccin.com/flavor/idle-{app_id}.webp",
+  "vscord.status.image.large.viewing.key": "https://vscord.catppuccin.com/flavor/{lang}.webp",
+  "vscord.status.image.small.debugging.key": "https://vscord.catppuccin.com/flavor/debugging.webp",
+  "vscord.status.image.small.editing.key": "https://vscord.catppuccin.com/flavor/{app_id}.webp",
+  "vscord.status.image.small.idle.key": "https://vscord.catppuccin.com/flavor/idle.webp",
+  "vscord.status.image.small.notInFile.key": "https://vscord.catppuccin.com/flavor/idle.webp",
+  "vscord.status.image.small.viewing.key": "https://vscord.catppuccin.com/flavor/{app_id}.webp"
 }
 ```
 
