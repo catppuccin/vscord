@@ -1,7 +1,4 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>catppuccin/renovate-config:default"],
-  "git-submodules": {
-    "enabled": true
-  }
+  "extends": ["github>catppuccin/renovate-config:default"]
 }
