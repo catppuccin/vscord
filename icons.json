@@ -271,10 +271,7 @@
   "npm": "npm",
   "objective-c": "c",
   "ocaml": "ocaml",
-  "odin": {
-    "collection": "file-icons",
-    "icon": "odin"
-  },
+  "odin": "odin",
   "onyx": {
     "collection": "lucide",
     "icon": "hexagon",
