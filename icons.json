@@ -64,11 +64,7 @@
     "foreground": "yellow"
   },
   "cpp": "cpp",
-  "crystal": {
-    "collection": "simple-icons",
-    "icon": "crystal",
-    "foreground": "overlay0"
-  },
+  "crystal": "crystal",
   "csharp": "csharp",
   "csproj": "visual-studio",
   "css": "css",
@@ -142,11 +138,7 @@
     "icon": "harbour",
     "foreground": "blue"
   },
-  "hare": {
-    "collection": "mdi",
-    "icon": "hare",
-    "foreground": "overlay0"
-  },
+  "hare": "hare",
   "haskell": "haskell",
   "haxe": "haxe",
   "heex": {
@@ -271,10 +263,7 @@
   "npm": "npm",
   "objective-c": "c",
   "ocaml": "ocaml",
-  "odin": {
-    "collection": "file-icons",
-    "icon": "odin"
-  },
+  "odin": "odin",
   "onyx": {
     "collection": "lucide",
     "icon": "hexagon",
@@ -357,11 +346,7 @@
     "icon": "sqf"
   },
   "sql": "database",
-  "squirrel": {
-    "collection": "lucide",
-    "icon": "squirrel",
-    "foreground": "rosewater"
-  },
+  "squirrel": "squirrel",
   "stylus": {
     "collection": "simple-icons",
     "icon": "stylus",
