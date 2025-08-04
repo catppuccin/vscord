@@ -354,11 +354,7 @@
     "icon": "sqf"
   },
   "sql": "database",
-  "squirrel": {
-    "collection": "lucide",
-    "icon": "squirrel",
-    "foreground": "rosewater"
-  },
+  "squirrel": "squirrel",
   "stylus": {
     "collection": "simple-icons",
     "icon": "stylus",
