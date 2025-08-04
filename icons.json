@@ -138,11 +138,7 @@
     "icon": "harbour",
     "foreground": "blue"
   },
-  "hare": {
-    "collection": "mdi",
-    "icon": "hare",
-    "foreground": "overlay0"
-  },
+  "hare": "hare",
   "haskell": "haskell",
   "haxe": "haxe",
   "heex": {
