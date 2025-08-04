@@ -64,11 +64,7 @@
     "foreground": "yellow"
   },
   "cpp": "cpp",
-  "crystal": {
-    "collection": "simple-icons",
-    "icon": "crystal",
-    "foreground": "overlay0"
-  },
+  "crystal": "crystal",
   "csharp": "csharp",
   "csproj": "visual-studio",
   "css": "css",
